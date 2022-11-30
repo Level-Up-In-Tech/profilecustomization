@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+<!-- My name is Fernando, I've being in sales for over 15 years. I have a Bachelor Degree in Computer Science
+ I'm currently atteding Level Up in Tech, to learn and become a DevOps Engineering and be succesful in this new carrer path-->
 
 Find out more about me & feel free to connect with me here:
 

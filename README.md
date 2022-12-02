@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+I'm Patrick Rene, I've been a storage engineer for 22 years, what I enjoy most about this role is the constant challenges and evolvement. I'm currently employed with Raytheon and have been in this role for the past 11 months. I'm interested in AWS and AZURE public cloud services because there is a direct path between storage engineering and cloud services. I'm currently learining about GITHUB and its functionality.
+
 
 Find out more about me & feel free to connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Rene-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickrrene/)](https://www.linkedin.com/in/patrickrrene/)
+[![Medium Badge](https://img.shields.io/badge/Patrick%20René-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@prrene/)](https://www.medium.com/@prrene/)
+[![Gmail Badge](https://img.shields.io/badge/-PatrickRRene@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:PatrickRRene@gmail.com)](mailto:PatrickRRene@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +25,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PatrickR0636&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR0636&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=PatrickR0636%2FPatrickR0636&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=PatrickR0636%2FPatrickR0636)
